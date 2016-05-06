@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mailing</string>
+    <string name="button_message">Check for updates</string>
+    <string name="product_name">DM125™ Postage Meter</string>
+    <string name="progressDialog_message">Waiting...</string>
+    <string name="dialog_title">Found New App</string>
+    <string name="product_instruction">The DM125 gives you advanced digital technology in an affordable desktop postage meter, so you can send more mail faster and with less effort. Whether it’s a mailing to 300 customers or an overnight parcel to your accountant, the DM125 is versatile enough to handle all of your sending.</string>
+    <string name="menu_pin">start screen pinning</string>
+    <string name="menu_unpin">exit screen pinning</string>
+</resources>
